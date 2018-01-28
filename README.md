@@ -12,10 +12,10 @@ Available at: https://youtu.be/O1aG8BOIghI
 
 ## Operation
 
-npm install
-npm start (or "nodemon Server/server.js")
-npm react (or "webpack -d --watch")
-npm test (or "node ./node_modules/mocha/bin/mocha")
+* npm install
+* npm start (or "nodemon Server/server.js")
+* npm react (or "webpack -d --watch")
+* npm test (or "node ./node_modules/mocha/bin/mocha")
 
 ## Tech Stack
 
